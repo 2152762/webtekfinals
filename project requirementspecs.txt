@@ -1,0 +1,37 @@
+Project (30% finals)
+
+Technical Objective 
+•	Use  various web technologies covered in the course to implement a rich UI/UX.
+•	Use web application security.
+Rich UI/UX
+•	Interactive content, multimedia, animations, embedded app functionality, mobility, etc.
+•	Website UI/UX must be appropriate…….. . . . ..  .. . 
+
+Submit Progress Reports
+Due dates:
+•	PR1: Thu, 26 Apr 2018, 12NN
+•	PR2: Thu, 03 may 2018. 12NN
+Document Format:
+•	Provided on long (8” x 13”) with 1 inch margin all round, using size 12 calibri font 1.5 spacing.
+•	With cover page and member signatures.
+•	Hand personallu to instructor.
+Final Projcect Docu.
+•	Due date (Tentatively Sat , 12 may 2018.
+•	Same format to the PR’s.
+•	Architectural Design of course website:
+o	Website features Ser (with annotated screen shots).
+o	Technologies utilized and implementation details (with architechtural diagrams)
+“explain how you use them,  your own understanding on your work”.
+Project Presentation
+•	Schedule and Venues (TBA exam week)
+•	Presentation guidelines
+o	10 – 15 minutes demonstration of course webstie functionality nad implementation dertais(Inclusive Q and A).
+•	BYOD, “close Quarters” reservation setup	
+o	All members must participate.
+Criteria:
+o	(40%) Technical Implementation
+o	(20%) Course Website content
+o	(20%) documentation
+o	(20%) presentation.
+
+
