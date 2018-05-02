@@ -1,2 +1,2 @@
 # webtekfinals
-gg na this
+1 week before deadline
